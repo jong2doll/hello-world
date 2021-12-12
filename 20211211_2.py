@@ -26,5 +26,5 @@ selected_tag_a = driver.find_element_by_css_selector('#lnb > div.lnb_group > div
 selected_tag_a.click()
 
 driver.execute_script('alert("멍멍!")')
-print("test")
+print("test!!")
 
